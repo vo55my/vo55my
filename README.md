@@ -17,7 +17,7 @@ Saya adalah Mahasiswa semester 6 jurusan Teknik Informatika dari Universitas Pas
 <hr>
 <a href="https://github.com/vo55my/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=vo55my&show_icons=true&include_all_commits=true&theme=tokyonight#gh-dark-mode-only" alt="Hilmy's github stats" />
-</a>_________________________________
+</a>__________________________
 <a href="https://github.com/vo55my/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vo55my&layout=compact&theme=tokyonight#gh-dark-mode-only" />
 </a>
