@@ -76,7 +76,6 @@
 ###
 
 <h3 align="left">📊 GitHub Stats:</h3>
-![](https://github-profile-trophy.vercel.app/?username=vo55my&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4)
 
 ###
 
@@ -84,20 +83,6 @@
   <img src="https://github-readme-stats.vercel.app/api?username=vo55my&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=true&order=1" height="125" alt="stats graph"  />
   <img src="https://streak-stats.demolab.com?user=vo55my&locale=en&mode=weekly&theme=tokyonight&hide_border=true&border_radius=7&order=3" height="125" alt="streak graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=vo55my&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=8&theme=tokyonight&hide_border=true&order=2" height="125" alt="languages graph"  />
-</div>
-
-###
-
-<h3 align="left">🏆 GitHub Trophies:</h3>
-
-###
-
-<img src="https://raw.githubusercontent.com/vo55my/vo55my/blob/output/snake.svg" alt="Snake animation" />
-
-###
-
-<div align="center">
-  <img src="https://profile-counter.glitch.me/vo55my/count.svg?"  />
 </div>
 
 ###
