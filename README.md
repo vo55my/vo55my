@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">Mahasiswa jurusan Teknik Informatika dari Universitas Pasundan. Memiliki minat tinggi dalam dunia Front-End Web Developer serta pengetahuan dalam bekerja sama dengan orang lain dan kolaborasi proyek dengan berbagai tim dari latar belakang berbeda.</p>
+<p align="left">Student majoring in informatics engineering from Pasundan University. Have a high interest in the world of front-end web development as well as knowledge of working with others and project collaboration with various teams from different backgrounds.</p>
 
 ###
 
