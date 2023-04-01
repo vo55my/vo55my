@@ -76,6 +76,7 @@
 ###
 
 <h3 align="left">📊 GitHub Stats:</h3>
+![](https://github-profile-trophy.vercel.app/?username=vo55my&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4)
 
 ###
 
