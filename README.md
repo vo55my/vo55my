@@ -81,7 +81,7 @@
 
 <p align="left">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=vo55my&theme=tokyonight&no-frame=true&no-bg=true&margin-w=2" alt="vo55my" />
+    <img src="https://github-profile-trophy.vercel.app/?username=vo55my&theme=tokyonight&no-frame=true&no-bg=true" alt="vo55my" />
   </a>
 </p>
 
