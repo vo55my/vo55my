@@ -91,12 +91,12 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/voss/voss/blob/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/vo55my/vo55my/blob/output/snake.svg" alt="Snake animation" />
 
 ###
 
 <div align="center">
-  <img src="https://profile-counter.glitch.me/voss/count.svg?"  />
+  <img src="https://profile-counter.glitch.me/vo55my/count.svg?"  />
 </div>
 
 ###
