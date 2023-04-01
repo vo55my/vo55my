@@ -75,6 +75,18 @@
 
 ###
 
+<h3 align="left">🏆 GitHub Trophies:</h3>
+
+###
+
+<p align="left">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=vo55my&theme=tokyonight&no-frame=true&no-bg=false&margin-w=6" alt="vo55my" />
+  </a>
+</p>
+
+###
+
 <h3 align="left">📊 GitHub Stats:</h3>
 
 ###
@@ -90,9 +102,5 @@
 <div align="center">
   <img src="https://profile-counter.glitch.me/voss/count.svg?"  />
 </div>
-
-###
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vo55my" alt="vo55my" /></a> </p>
 
 ###
