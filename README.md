@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">Student majoring in informatics engineering from Pasundan University. Have a high interest in the world of Front-End Web Development as well as knowledge of working with others and project collaboration with various teams from different backgrounds.</p>
+<p align="left">I am a passionate informatics engineering student at Pasundan University, specializing in Front-End Web Development. With a strong interest in this field, I enjoy collaborating with diverse teams and have experience in project collaboration, fostering effective communication, and achieving collective goals.</p>
 
 ###
 
