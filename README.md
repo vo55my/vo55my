@@ -3,7 +3,9 @@
 ###
 
 <h3 align="left">💫 About Me:</h3>
+
 ###
+
 <p align="left">I am a fresh graduate who is committed to pursue a career as a Software Engineer with a special interest in web development, especially frontend. Mastering HTML, CSS, and JavaScript, I have experience creating responsive and user-oriented interfaces. I have good communication skills, adaptable, and enjoy working in a team. I am ready to contribute with creative ideas and innovative digital solutions.</p>
 
 ###
@@ -39,7 +41,9 @@
 ###
 
 <h3 align="left">⚙Tools:</h3>
+
 ###
+
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" width="52" alt="bootstrap logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="40" width="52" alt="sass logo"  />
